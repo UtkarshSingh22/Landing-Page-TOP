@@ -39,13 +39,40 @@ ul{
     background-color: #1F2937;
     display: flex;
     padding: 0 300px;
+    justify-content: space-between;
+    gap: 100px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.info{
+    width: 550px;
 }
 .head{
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+    padding-bottom: 20px;
 }
 .desc{
     font-size: 18px;
     color: #E5E7EB;
+    padding-bottom: 20px;
+}
+.image-one{
+    background-color: #425979;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 350px;
+    font-size: 18px;
+}
+.button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 140px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
 }
