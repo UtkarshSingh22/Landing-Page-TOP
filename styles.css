@@ -136,3 +136,33 @@ ul{
     font-size: 24px;
     font-weight: 900;
 }
+.fourth{
+    background-color: #F9FAF8;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px 200px;
+}
+.dialogBox{
+    background-color: #3882F6;
+    width: 1100px;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 200px;
+}
+.req{
+    font-size: 28px;
+    font-weight: 900;
+}
+.another-req{
+    font-size: 20px;
+}
+.dia-but{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
