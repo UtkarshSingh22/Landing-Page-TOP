@@ -172,5 +172,11 @@ ul{
     font-weight: 900;
 }
 .footer{
-    
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px ;
+    font-size: 25px;
 }
